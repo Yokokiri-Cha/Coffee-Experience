@@ -1,0 +1,11 @@
+C:\Users\askke\source\repos\Coffee for PC\Coffee for PC\bin\Debug\Coffee for PC.exe.config
+C:\Users\askke\source\repos\Coffee for PC\Coffee for PC\bin\Debug\Coffee for PC.exe
+C:\Users\askke\source\repos\Coffee for PC\Coffee for PC\bin\Debug\Coffee for PC.pdb
+C:\Users\askke\source\repos\Coffee for PC\Coffee for PC\obj\Debug\Coffee for PC.csproj.AssemblyReference.cache
+C:\Users\askke\source\repos\Coffee for PC\Coffee for PC\obj\Debug\Coffee for PC.csproj.SuggestedBindingRedirects.cache
+C:\Users\askke\source\repos\Coffee for PC\Coffee for PC\obj\Debug\Coffee_for_PC.Form1.resources
+C:\Users\askke\source\repos\Coffee for PC\Coffee for PC\obj\Debug\Coffee_for_PC.Properties.Resources.resources
+C:\Users\askke\source\repos\Coffee for PC\Coffee for PC\obj\Debug\Coffee for PC.csproj.GenerateResource.cache
+C:\Users\askke\source\repos\Coffee for PC\Coffee for PC\obj\Debug\Coffee for PC.csproj.CoreCompileInputs.cache
+C:\Users\askke\source\repos\Coffee for PC\Coffee for PC\obj\Debug\Coffee for PC.exe
+C:\Users\askke\source\repos\Coffee for PC\Coffee for PC\obj\Debug\Coffee for PC.pdb
